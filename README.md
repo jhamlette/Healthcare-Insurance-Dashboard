@@ -62,8 +62,7 @@ You can view or download the final Power BI export here:
 ---
 
 ## ✨ 6) Author
-**Jordan Hamlette**  
-Founder — [Flowhere ♾️]
+📊 **Created by:** Jordan Hamlette | Flowhere LLC  
 
 ---
 
