@@ -62,7 +62,7 @@ You can view or download the final Power BI export here:
 ---
 
 ## ✨ 6) Author
-📊 **Created by:** Jordan Hamlette | Flowhere LLC  
+📊 **Created by:** Jordan Hamlette 
 
 ---
 
